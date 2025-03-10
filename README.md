@@ -1,4 +1,3 @@
-## Hi there 👋
 # 🐍 GitHub Contribution Snake
 
 ![snake animation](https://raw.githubusercontent.com/OhDongI/snake-game/main/dist/github-snake.svg)
